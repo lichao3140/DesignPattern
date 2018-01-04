@@ -1,9 +1,10 @@
 > ## 架构设计
 >> * 单例模式Singleton
->>> ![](/screenshot/Singleton.jpg "单例模式")
+>>> ![](/screenshot/Singleton.jpg "单例模式")  
 >>>		demo1:枚举单例
 >>>		model:单例例子
 >> * Builder模式 Builder
+>>> ![](/screenshot/Builder.png "Builder模式")  
 >>>		demo1:计算机组装
 >> * 原型模式Prototype
 >>>		demo1:浅拷贝---第三次和第四次输出是一样的
