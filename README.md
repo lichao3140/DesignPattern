@@ -8,10 +8,12 @@
 >>>		demo1:计算机组装
 >> * 原型模式Prototype(创建型)
 >>> ![](/screenshot/Prototype.gif "原型模式")  
->>>		demo1:浅拷贝---第三次和第四次输出是一样的
->>>		demo2:深拷贝---第三次和第四次输出不是一样的
+>>>		demo1:浅拷贝---第三次和第四次输出是一样的  
+>>>		demo2:深拷贝---第三次和第四次输出不是一样的  
 >> * 工厂模式 Factory(创建型)
 >>> ![](/screenshot/Factory.jpg "工厂模式")  
->>>		demo1:生产汽车
->>>		demo2:导出数据
-
+>>>		demo1:生产汽车  
+>>>		demo2:导出数据  
+>> * 抽象工厂模式Abstract Factory
+>>> ![](/screenshot/AbstractFactory.gif "抽象工厂模式")
+>>>		demo1:汽车组装
