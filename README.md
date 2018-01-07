@@ -32,3 +32,6 @@
 >>> ![](/screenshot/State.png "状态模式")<br>  
 >>>		demo1:电视状态切换<br>
 >>>		demo2:银行客户类型<br>
+>> * 8、责任链模式Handler---(行为型模式)
+>>> ![](/screenshot/Handler.png "责任链模式")<br>  
+>>>		demo1:员工报账<br>
