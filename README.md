@@ -35,3 +35,6 @@
 >> * 8、责任链模式Handler---(行为型模式)
 >>> ![](/screenshot/Handler.png "责任链模式")<br>  
 >>>		demo1:员工报账<br>
+>> * 9、解释器模式Context---(行为型模式)
+>>> ![](/screenshot/Context.png "解释器模式")<br>
+>>>		demo1:算术表达式<br>
