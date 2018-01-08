@@ -38,3 +38,7 @@
 >> * 9、解释器模式Context---(行为型模式)
 >>> ![](/screenshot/Context.png "解释器模式")<br>
 >>>		demo1:算术表达式<br>
+>> * 10、命令模式Command---(行为型模式)
+>>> ![](/screenshot/Command.jpg "命令模式")<br>
+>>>		demo1:军队调动<br>
+>>>		demo1:俄罗斯方块控制<br>
