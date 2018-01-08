@@ -41,4 +41,8 @@
 >> * 10、命令模式Command---(行为型模式)
 >>> ![](/screenshot/Command.jpg "命令模式")<br>
 >>>		demo1:军队调动<br>
->>>		demo1:俄罗斯方块控制<br>
+>>>		demo2:俄罗斯方块控制<br>
+>> * 11、观察者模式Observer---(行为型模式)
+>>> ![](/screenshot/Observer.png "观察者模式")<br>
+>>>		demo1:物品押运<br>
+>>>		demo2:公众号订阅<br>
