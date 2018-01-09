@@ -46,3 +46,6 @@
 >>> ![](/screenshot/Observer.png "观察者模式")<br>
 >>>		demo1:物品押运<br>
 >>>		demo2:公众号订阅<br>
+>> * 12、备忘录模式Memoto---(行为型模式)
+>>> ![](/screenshot/Memoto.jpg "备忘录模式")<br>
+>>>		demo1:游戏进度存储<br>
