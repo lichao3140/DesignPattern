@@ -49,3 +49,6 @@
 >> * 12、备忘录模式Memoto---(行为型模式)
 >>> ![](/screenshot/Memoto.jpg "备忘录模式")<br>
 >>>		demo1:游戏进度存储<br>
+>> * 13、迭代器模式Iterator---(行为型模式)
+>>> ![](/screenshot/Iterator.jpg "迭代器模式")<br>
+>>>		demo1:统计部门员工<br>
