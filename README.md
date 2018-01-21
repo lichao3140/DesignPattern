@@ -52,3 +52,6 @@
 >> * 13、迭代器模式Iterator---(行为型模式)
 >>> ![](/screenshot/Iterator.jpg "迭代器模式")<br>
 >>>		demo1:统计部门员工<br>
+>> * 14、模板方法模式TemplateMethod---(行为型模式)
+>>> ![](/screenshot/TemplateMethod.png "模板方法模式")<br>
+>>>		demo1:准备去学校所要做的工作<br>
