@@ -55,3 +55,6 @@
 >> * 14、模板方法模式TemplateMethod---(行为型模式)
 >>> ![](/screenshot/TemplateMethod.png "模板方法模式")<br>
 >>>		demo1:准备去学校所要做的工作<br>
+>> * 15、访问者模式Visitor---(行为型模式)
+>>> ![](/screenshot/Visitor.jpg "访问者模式")<br>
+>>>		demo1:账单收入和支出<br>
