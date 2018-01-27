@@ -72,3 +72,8 @@
 >>>		demo1:设备播放音视频<br>
 >>>		demo2:同事间沟通<br>
 >>
+>> * 17、代理模式Subject---(结构型模式)
+>>> ![](/screenshot/Subject.png "代理模式")<br>
+>>>		demo1:法律仲裁<br>
+>>>		demo2:汽车出售<br>
+>>
