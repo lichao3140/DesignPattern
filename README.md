@@ -32,29 +32,43 @@
 >>> ![](/screenshot/State.png "状态模式")<br>  
 >>>		demo1:电视状态切换<br>
 >>>		demo2:银行客户类型<br>
+>>
 >> * 8、责任链模式Handler---(行为型模式)
 >>> ![](/screenshot/Handler.png "责任链模式")<br>  
 >>>		demo1:员工报账<br>
+>>
 >> * 9、解释器模式Context---(行为型模式)
 >>> ![](/screenshot/Context.png "解释器模式")<br>
 >>>		demo1:算术表达式<br>
+>>
 >> * 10、命令模式Command---(行为型模式)
 >>> ![](/screenshot/Command.jpg "命令模式")<br>
 >>>		demo1:军队调动<br>
 >>>		demo2:俄罗斯方块控制<br>
+>>
 >> * 11、观察者模式Observer---(行为型模式)
 >>> ![](/screenshot/Observer.png "观察者模式")<br>
 >>>		demo1:物品押运<br>
 >>>		demo2:公众号订阅<br>
+>>
 >> * 12、备忘录模式Memoto---(行为型模式)
 >>> ![](/screenshot/Memoto.jpg "备忘录模式")<br>
 >>>		demo1:游戏进度存储<br>
+>>
 >> * 13、迭代器模式Iterator---(行为型模式)
 >>> ![](/screenshot/Iterator.jpg "迭代器模式")<br>
 >>>		demo1:统计部门员工<br>
+>>
 >> * 14、模板方法模式TemplateMethod---(行为型模式)
 >>> ![](/screenshot/TemplateMethod.png "模板方法模式")<br>
 >>>		demo1:准备去学校所要做的工作<br>
+>>
 >> * 15、访问者模式Visitor---(行为型模式)
 >>> ![](/screenshot/Visitor.jpg "访问者模式")<br>
 >>>		demo1:账单收入和支出<br>
+>>
+>> * 16、中介者模式Mediator---(行为型模式)
+>>> ![](/screenshot/Mediator.png "中介者模式")<br>
+>>>		demo1:设备播放音视频<br>
+>>>		demo2:同事间沟通<br>
+>>
