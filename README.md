@@ -77,3 +77,7 @@
 >>>		demo1:法律仲裁<br>
 >>>		demo2:汽车出售<br>
 >>
+>> * 18、组合模式Component---(结构型模式)
+>>> ![](/screenshot/Component.png "组合模式")<br>
+>>> ![](/screenshot/Component1.png "透明组合模式")<br>
+>>>		demo1:文件夹目录结构<br>
