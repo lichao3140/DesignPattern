@@ -81,3 +81,8 @@
 >>> ![](/screenshot/Component.png "组合模式")<br>
 >>> ![](/screenshot/Component1.png "透明组合模式")<br>
 >>>		demo1:文件夹目录结构<br>
+>>
+>> * 19、适配器模式Adapter---(结构型模式)
+>>> ![](/screenshot/Adapter.png "类适配器模式")<br>
+>>> ![](/screenshot/Adapter1.png "对象适配器模式")<br>
+>>
